@@ -43,3 +43,8 @@ header img {
 .card {
     background-color: teal;
 }
+.card{
+    background-color: blueviolet;
+    padding: 10px;
+    color: white;
+}
